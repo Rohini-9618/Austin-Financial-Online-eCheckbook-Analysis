@@ -35,4 +35,6 @@ The primary objective is to track spending patterns, analyze departmental or cat
 * `README.md`: Project documentation and overview.
 
 ## 📂 Dataset
-Due to 
+ Due to the large file size (195 MB), the dataset is hosted externally. You can download it from the link below:
+* 🔗 [Download Austin Financial Dataset from Google Drive](https://drive.google.com/file/d/1bHdVrn1eX-6dg5SdU71r_OKOAS3laYzv/view?usp=sharing)
+
